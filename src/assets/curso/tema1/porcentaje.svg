@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="112" viewBox="0 0 112 112">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.075" y1="0.031" x2="0.827" y2="0.819" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_891878" data-name="Grupo 891878" transform="translate(-895 -2631)">
+    <g id="percent" transform="translate(889 2625)">
+      <circle id="Elipse_6784" data-name="Elipse 6784" cx="56" cy="56" r="56" transform="translate(6 6)" fill="#9ea257"/>
+      <path id="Trazado_628371" data-name="Trazado 628371" d="M167.542,131.7q0-1.9-.15-3.754l-35.741-26.007h-2.159l-9.175,15.528L108.18,105.793a14.681,14.681,0,0,0-10.387-3.851c-9.318,0-15.3,6.656-15.3,17.061,0,5.645,1.778,10.2,4.894,13.174l15.452,14.865-9.989,7.609,20.584,25.205q1.932.143,3.9.144c27.726,0,50.2-21.624,50.2-48.3Z" transform="translate(-49.542 -65.082)" opacity="0.49" fill="url(#linear-gradient)"/>
+      <g id="Grupo_891875" data-name="Grupo 891875" transform="translate(32.955 36.859)">
+        <path id="Trazado_628372" data-name="Trazado 628372" d="M303.125,248.48c0-9.179-5.073-15.051-12.981-15.051s-12.981,5.872-12.981,15.051c0,9.154,5.1,15.051,12.981,15.051S303.125,257.634,303.125,248.48Zm-12.98,8.224c-3.124,0-4.851-2.943-4.851-8.223s1.727-8.224,4.851-8.224c3.1,0,4.851,2.968,4.851,8.248S293.269,256.7,290.144,256.7Z" transform="translate(-243.988 -211.02)" fill="#fff"/>
+        <path id="Trazado_628373" data-name="Trazado 628373" d="M82.5,116.993c0,9.154,5.1,15.051,12.981,15.051s12.981-5.9,12.981-15.051c0-9.179-5.073-15.051-12.981-15.051S82.5,107.814,82.5,116.993Zm12.981-8.223c3.1,0,4.851,2.968,4.851,8.248s-1.727,8.2-4.851,8.2-4.851-2.943-4.851-8.223,1.727-8.223,4.851-8.223Z" transform="translate(-82.5 -101.942)" fill="#fff"/>
+        <path id="Trazado_628374" data-name="Trazado 628374" d="M171.221,101.942l-29.849,52.51h9.221l29.849-52.51Z" transform="translate(-131.339 -101.942)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
