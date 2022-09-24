@@ -194,32 +194,51 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Tabulación',
+      referencia:
+        'Math2me. (2015). Tabulación de datos cualitativos [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=6oLDbenzHrQ',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Ofimática',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Herramientas ofimáticas [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Hs7UG7RO3_M',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Código fuente',
+      significado:
+        'listado de instrucciones que parametrizan el funcionamiento de un <em>software</em>. ',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Cronograma',
+      significado:
+        'representación gráfica de actividades dispuestas en un periodo de tiempo.',
+    },
+    {
+      termino: 'Informe',
+      significado: 'documento elaborado con el fin de compartir información.',
+    },
+    {
+      termino: 'Propiedad intelectual',
+      significado:
+        'derecho que se posee sobre una idea, concepto o cualquier creación surgida del intelecto humano.',
+    },
+    {
+      termino: '<em>Software</em>',
+      significado: 'conjunto de programas para computadora.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Agencia Nacional de Evaluación de la Calidad y Acreditación [ANECA]. (2015). Plan de mejoras. Herramienta de trabajo.',
+      link:
+        'https://www.academia.edu/28134046/PLAN_DE_MEJORAS_Herramienta_de_trabajo_Agencia_Nacional_de_Evaluaci%C3%B3n_de_la_Calidad_y_Acreditaci%C3%B3n',
     },
   ],
   creditos: {
@@ -237,6 +256,26 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Andrés Felipe Avilan Lozano',
+        cargo: 'Experto temático',
+        centro: 'Regional Tolima - Centro Agropecuario La Granja',
+      },
+      {
+        nombre: 'Ana Vela Rodríguez Velásquez',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Asesora metodológica',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
     ],
     desarrolloProducto: [
       {
@@ -246,41 +285,31 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jorge Enrique Haylock Calderín',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

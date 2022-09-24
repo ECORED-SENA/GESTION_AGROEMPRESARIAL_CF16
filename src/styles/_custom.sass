@@ -23,6 +23,16 @@
   to 
     transform: rotate(359deg)
 
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/fondo-banner-interno.jpg") !important    
+
+.banner-interno__titulo__icono
+  background-color: white !important
+  
+.banner-interno__titulo h2
+  color: white !important 
+
+// fondos
 .fondo
   &-1
     background-image: url('../assets/curso/tema1/fondo1.jpg')
@@ -54,6 +64,18 @@
     background-size: cover
     background-repeat: no-repeat
     background-position: top
+  &-11
+    background-color: #fff
+  &-12
+    background-image: url('../assets/curso/tema2/fondo1.jpg')
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: top
+  &-13
+    background-image: url('../assets/curso/tema4/fondo1.jpg')
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: top
 
 .pasos-a.color-acento-botones .pasos-a__circle div
   color: #12263F !important
@@ -61,18 +83,27 @@
 .text-end
   text-align: left!important
 
+// Bordes de tabla
 .bordeabajo
   border-bottom: 3px solid #949494 !important
 
 .bordederecha
   border-right: 3px solid #949494 !important
 
+.bordeizq
+  border-left: 3px solid #949494 !important
+
 .resaltado
   color: #A3314F
 
+// color de viñetas 
 .fa-play-circle:before
   content: "\f144"
   color: #12263F
+
+.fa-angle-right:before
+  content: "\f105"
+  color: #A3314F
 
 .margentitulo2
   position: relative
@@ -95,3 +126,31 @@
 .ampliar
   margin-left: -50px
   margin-right: -50px
+
+// linea de tiempo
+.linea-tiempo-d__item--selected .tarjeta--gris
+  background-color: #E8CBD3 !important
+
+.cambiocolor
+  .linea-tiempo-d__item .tarjeta--gris
+    background-color: #D2E1F1
+
+.anchocol
+  width: 50px !important
+  border: 2px solid #000 !important
+
+.font-12
+  font-size: 12px
+
+// infografia
+.img-infografica-b__modal
+  background-color: #E8CBD3 !important
+  min-height: 400px !important
+  border-radius: 20px
+
+.img-infografica-b__modal__contenido div > *
+  color: #12263F !important
+
+.img-infografica-b.color-acento-botones .img-infografica-b__item__numero
+  color: #12263F !important
+
