@@ -41,7 +41,8 @@
         img(src="@/assets/curso/tema1/imagen3.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
         p Cuando las preguntas son abiertas, la codificación debe darse de forma posterior a la recolección de información, puesto que no hay forma de anticiparse a las posibilidades de respuesta que dará la persona consultada. Una vez se cuenta con toda la información, es posible diseñar categorías de respuestas y a cada una otorgarle algún valor para lograr consolidarlas en menos opciones.
-        p La codificación es un sistema utilizado de forma frecuente con el objetivo de compactar la información y presentarla de forma más amigable a los interesados. En este sentido, lo más recomendable es que la codificación no abarque un número muy elevado de opciones, puesto que restaría utilidad a su propósito principal, así, se espera que las opciones en la codificación se mantengan por debajo de 10 códigos para cada variable.
+        span.text-bold La codificación es un sistema utilizado de forma frecuente con el objetivo de compactar la información y presentarla de forma más amigable a los interesados
+        span . En este sentido, lo más recomendable es que la codificación no abarque un número muy elevado de opciones, puesto que restaría utilidad a su propósito principal, así, se espera que las opciones en la codificación se mantengan por debajo de 10 códigos para cada variable.
     .cajon.color-acento-contenido.p-4.my-4.fondo-3(data-aos="fade-down-right")
       p Cuando se recibe una cantidad muy variada de respuestas, se pueden desestimar aquellas que tengan poca relevancia estadística. Por ejemplo, aquellas respuestas coincidentes, que sumadas no representen más del 5%, y que, por lo tanto, no tengan tanto peso sobre el análisis de la información, pueden omitirse, para reducir las posibilidades de respuesta dadas por los consultados.
     separador
@@ -428,7 +429,7 @@
         PasosA.color-acento-botones.mb-5(tipo="n")
           .row.justify-content-around.align-items-center(data-aos="fade-down-right")
             .col-md-8.mb-4.mb-md-0
-              p.text-bold Definir los elementos clave del estudio. 
+              p.text-bold Definir los elementos clave del estudio
               p Es decir, los datos que serán objeto de análisis y cuya medición será la que afecte más las conclusiones alcanzadas.
             .col-md-2.col-sm-5.col-5
               figure
@@ -445,7 +446,7 @@
 
           .row.justify-content-around.align-items-center(data-aos="fade-down-right")
             .col-md-8.mb-4.mb-md-0
-              p.text-bold Estudiar o medir las diferencias.
+              p.text-bold Estudiar o medir las diferencias
               p Una vez se cuenta con los datos de la empresa y su comparativa, se deben realizar los cálculos de las cifras comparables, es decir, las que comprendan las mismas características objeto de análisis, por ejemplo: volumen de ventas de la empresa 1 con volumen de ventas de la empresa 2. 
               p En el caso de los 
                 span.text-bold datos cualitativos
@@ -460,7 +461,7 @@
               figure
                 img(src='@/assets/curso/tema1/paso4.svg')
             .col-md-8.mb-4.mb-md-0(data-aos="fade-down-left")
-              p.text-bold Identificar tendencias. 
+              p.text-bold Identificar tendencias
               p En el análisis de la información, debe determinarse si existen tendencias que permitan establecer 
                 span.text-bold patrones 
                 span e identificar relaciones entre unos indicadores y otros. 
@@ -468,7 +469,7 @@
 
           .row.justify-content-around.align-items-center
             .col-md-8.mb-4.mb-md-0(data-aos="fade-down-right")
-              p.text-bold Presentar conclusiones.
+              p.text-bold Presentar conclusiones
               p La evaluación de las diferencias debe conllevar a la elaboración de una serie de 
                 span.text-bold conclusiones respaldadas por el estudio
                 span . Identificar el lugar dentro del mercado, estrategias a mejorar u objetivos a alcanzar en función de la empresa a la que se compara son algunos de los resultados esperados.

@@ -83,7 +83,7 @@
               img(src='@/assets/curso/tema4/figura2.svg')
 
           div(x="9.5%" y="97%" tooltip="Click para leer mas..." numero="+")
-            h5 Análisis de las causas:
+            h5 Análisis de las causas
             p La administración debe determinar cuáles son las áreas que requieren la implementación de este tipo de planes, es decir, que tienen mayor campo de acción para implementar mejoras. Según sus capacidades, es posible que sea necesario priorizar unos procesos por encima de otros, en función de un análisis costo–beneficio o del potencial impacto de los riesgos identificados.
 
           div(x="51.6%" y="68%" tooltip="Click para leer mas..." numero="+")
@@ -151,9 +151,8 @@
           
           p(numero="4" titulo="Evaluación de las acciones") En el análisis de causas, se presentan los indicadores actuales del proceso a mejorar; estos deben compararse con los nuevos indicadores una vez aplicadas las acciones de mejora.
 
-      .col-lg-6.col-md-12(data-aos="fade-down-left")
+      .col-lg-6.col-md-12(data-aos="fade")
         img(src="@/assets/curso/tema2/imagen2.jpg")
-    p(data-aos="fade") Se espera que las variaciones sean positivas o indiquen un cambio positivo. En caso de no ser así, se deben replantear las actividades y realizar las modificaciones que se esperen aporten a mejorar los procesos en evaluación.
 </template>
 
 <script>
