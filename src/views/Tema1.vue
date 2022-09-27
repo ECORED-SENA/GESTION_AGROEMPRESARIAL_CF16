@@ -41,7 +41,7 @@
         img(src="@/assets/curso/tema1/imagen3.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12(data-aos="fade-down-left")
         p Cuando las preguntas son abiertas, la codificación debe darse de forma posterior a la recolección de información, puesto que no hay forma de anticiparse a las posibilidades de respuesta que dará la persona consultada. Una vez se cuenta con toda la información, es posible diseñar categorías de respuestas y a cada una otorgarle algún valor para lograr consolidarlas en menos opciones.
-        span.text-bold La codificación es un sistema utilizado de forma frecuente con el objetivo de compactar la información y presentarla de forma más amigable a los interesados
+        span.text-bold.resaltado La codificación es un sistema utilizado de forma frecuente con el objetivo de compactar la información y presentarla de forma más amigable a los interesados
         span . En este sentido, lo más recomendable es que la codificación no abarque un número muy elevado de opciones, puesto que restaría utilidad a su propósito principal, así, se espera que las opciones en la codificación se mantengan por debajo de 10 códigos para cada variable.
     .cajon.color-acento-contenido.p-4.my-4.fondo-3(data-aos="fade-down-right")
       p Cuando se recibe una cantidad muy variada de respuestas, se pueden desestimar aquellas que tengan poca relevancia estadística. Por ejemplo, aquellas respuestas coincidentes, que sumadas no representen más del 5%, y que, por lo tanto, no tengan tanto peso sobre el análisis de la información, pueden omitirse, para reducir las posibilidades de respuesta dadas por los consultados.
