@@ -206,7 +206,7 @@
                     span.text-bold Math2me 
                     span sobre Tabulación de datos cualitativos, que le permitirá analizar y reforzar el tema, el cual se encuentra en la sección de material complementario. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://google.com/" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=6oLDbenzHrQ" target="_blank")
                     span.text-dark Ver video
                     i.fas.fa-play-circle
     separador

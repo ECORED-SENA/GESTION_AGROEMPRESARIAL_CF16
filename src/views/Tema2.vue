@@ -149,9 +149,13 @@
       .col-lg-6.col-md-12(data-aos="fade-down-right")
         img(src="@/assets/curso/tema2/imagen9.jpg")
     p.mb-5(data-aos="fade-down-left") A modo de recomendación, se presenta una serie de buenas prácticas que pueden ser aplicadas por parte de las empresas y que no necesariamente implican invertir cifras desproporcionadas para garantizar el resguardo de la información:
+    figure(data-aos="fade-down-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kwT4_LJqbyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.my-5(data-aos="fade-down-right") Una  vez  vistas las recomendaciones, tengamos en cuenta también, que en la actualidad los sistemas operativos ofrecen aplicativos integrados que aportan a la seguridad informática, contar con mecanismos adicionales, como antivirus, puede otorgar más tranquilidad para el manejo de datos, a continuación observe con atención el vídeo que se muestra enseguida. Procure llevar registro de lo más destacado en su libreta personal de apuntes. 
     figure(data-aos="fade")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/jqL1RwFft-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
 </template>
 
 <script>

@@ -53,7 +53,7 @@
       span . Estos surgen como producto del monitoreo efectuado y pueden clasificarse de la siguiente forma:
     figure(data-aos="fade")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Q2aPOMhUiZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.justify-content-center.px-5.ampliar.fondo-13
       .col-lg-8.col-md-12.mt-5
         .row.justify-content-center
