@@ -7,24 +7,6 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-down-right")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/completar-espacios.svg", alt="Texto que describa la imagen")
-      .col-12.col-md-8.col-lg-9(data-aos="fade-down-left")
-        .titulo-segundo
-          h2 Tabulación de datos
-        p.mb-4 En esta actividad didáctica, el aprendiz aplicará los conceptos sobre tabulación de datos, teniendo en cuenta la información sobre variables que vio en el componente formativo.
-        .tarjeta.actividad.p-3
-          .row.justify-content-around.align-items-center            
-            .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Completar los espacios
-            .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
-                span Realizar
-                i.fas.fa-puzzle-piece
-
-    .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-down-right")
-        .tarjeta.h-100.d-flex.align-items-center.p-4
-          figure
             img(src="@/assets/template/arrastrar.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9(data-aos="fade-down-left")
         .titulo-segundo
