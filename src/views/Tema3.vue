@@ -67,7 +67,7 @@
       span.text-bold.resaltado seguir un patrón
       span , lo que permite presentar un esquema general que cumple con las condiciones o requerimientos mínimos propios de este tipo de documentación.
     p.mb-5(data-aos="fade-down-right") Los tres grandes elementos que hacen parte de la estructura de un informe son: la introducción, su desarrollo y las conclusiones, los cuales se describen a continuación:
-    AcordionA(data-aos="fade-down-left").mb-5(tipo="a" clase-tarjeta="tarjeta fondo-12")
+    AcordionA(data-aos="fade-down-left").mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.ps-5(titulo="Introducción")
         .col-lg-5.col-md-12.mb-4.mb-md-0.ps-4
           p Aborda los aspectos que dieron origen al trabajo o la estrategia a desarrollar, por ejemplo:

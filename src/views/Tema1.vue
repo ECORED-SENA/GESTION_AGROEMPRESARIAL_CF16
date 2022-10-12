@@ -19,7 +19,7 @@
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12(data-aos="fade-down-right")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/icono1.svg')
+            img(src='@/assets/curso/tema1/icono2.svg')
           .tarjeta.fondo-2
             .p-4
               h4 Cuantitativa
@@ -27,7 +27,7 @@
               p Compila y organiza la información.
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/icono2.svg')
+            img(src='@/assets/curso/tema1/icono1.svg')
           .tarjeta.fondo-2
             .p-4
               h4 Cualitativa
@@ -64,15 +64,15 @@
           .col-xxl-5.col-xl-5.col-lg-6.col-md-8.col-sm-10.col-7
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0(data-aos="fade-down-left")
-        h4.mb-0.ms-0.margentitulo2 Tabulación cuantitativa
+        h3.mb-0.ms-0.margentitulo2 Tabulación cuantitativa
     p(data-aos="fade-down-left") Consolida la información cuantificable o medible, por lo que, por norma general, se subclasifican las opciones por tipo de variable de respuesta. 
     p(data-aos="fade-down-right") Si estas son pocas 
       span.text-bold.resaltado (menos de 30, según diversos autores)
       span , se listan en la columna izquierda de la tabla, mientras a la derecha se presentan las frecuencias absolutas y relativas. La frecuencia absoluta consiste en el conteo de las respuestas según la variable, es decir, el número de veces que las personas consultadas dieron una misma respuesta; mientras que la relativa presenta la proporción en función del total de respuestas obtenidas.
     .row.mb-5.justify-content-center
       .col-xxl-4.col-xl-4.col-lg-4.col-md-6.col-sm-12(data-aos="fade-down-left")
-        .tarjeta-avatar
-          img(src='@/assets/curso/tema1/10.svg')
+        .tarjeta-avatar.mb-5.mb-md-0
+          img.p-3(src='@/assets/curso/tema1/10.svg')
           .tarjeta.fondo-3.anchotarjetaavatar
             .p-4
               p.text-bold.text-center Frecuencias absolutas
@@ -81,7 +81,7 @@
 
       .col-xxl-4.col-xl-4.col-lg-4.col-md-6.col-sm-12(data-aos="fade-down-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/porcentaje.svg')
+          img.p-3(src='@/assets/curso/tema1/porcentaje.svg')
           .tarjeta.fondo-3.anchotarjetaavatar
             .p-4
               p.text-bold.text-center Frecuencias relativas
@@ -150,7 +150,7 @@
           .col-xxl-5.col-xl-5.col-lg-6.col-md-8.col-sm-10.col-7
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
-        h4.mb-0.ms-0.margentitulo2 Tabulación cuanlitativa
+        h3.mb-0.ms-0.margentitulo2 Tabulación cualitativa
     .row.justify-content-center
       .col-xxl-6.col-xl-6.col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
         p En este caso, la 
@@ -243,7 +243,7 @@
               .col-xxl-5.col-xl-5.col-lg-6.col-md-8.col-sm-10.col-7
                 img(src="@/assets/curso/tema1/fondo2.jpg")
           .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
-            h4.mb-0.ms-0.margentitulo2 Gráfico de barras
+            h3.mb-0.ms-0.margentitulo2 Gráfico de barras
         p.my-5(data-aos="fade-down-left") Como se mencionó previamente, lo más natural es que la información recolectada ya se haya tabulado, lo que facilita su representación gráfica. La mecánica aplicable consiste en la utilización de un 
           span.resaltado.text-bold plano cartesiano 
           span donde, por lo general, se hace uso de los ejes de la siguiente forma:
@@ -275,7 +275,7 @@
           h5 Tabla 3.
           span Tabulación de datos cualitativos
     .row.ampliar.px-5.fondo-10.justify-content-center
-      .col-lg-6.col-12(data-aos="fade-down-right")
+      .col-lg-8.col-12(data-aos="fade-down-right")
         .tabla-a.color-primario.mb-5
           table
             thead.fondo-5
@@ -337,7 +337,7 @@
           .col-xxl-5.col-xl-5.col-lg-6.col-md-8.col-sm-10.col-7
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
-        h4.mb-0.ms-0.margentitulo2 Gráfico de líneas
+        h3.mb-0.ms-0.margentitulo2 Gráfico de líneas
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.my-5(data-aos="fade-down-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/imagen8.jpg')})`}"
@@ -362,7 +362,7 @@
           .col-xxl-5.col-xl-5.col-lg-6.col-md-8.col-sm-10.col-7
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0(data-aos="fade-down-left")
-        h4.mb-0.ms-0.margentitulo2 Gráfico de sectores
+        h3.mb-0.ms-0.margentitulo2 Gráfico de sectores
     .cajon.color-acento-contenido.p-4.my-5.fondo-8(data-aos="fade-down-right")
       p.mb-0 Su disposición difiere de los tipos de gráficos anteriores, puesto que se visualiza como una 
         span.text-bold.resaltado representación circular 
@@ -428,39 +428,39 @@
       .col-10
         PasosA.color-acento-botones.mb-5(tipo="n")
           .row.justify-content-around.align-items-center(data-aos="fade-down-right")
-            .col-md-8.mb-4.mb-md-0
+            .col-lg-9.col-md-8.mb-4.mb-md-0
               p.text-bold Definir los elementos clave del estudio
               p Es decir, los datos que serán objeto de análisis y cuya medición será la que afecte más las conclusiones alcanzadas.
-            .col-md-2.col-sm-5.col-5
+            .col-lg-2.col-md-3.col-sm-5.col-5
               figure
                 img(src='@/assets/curso/tema1/paso1.svg')
 
           .row.justify-content-around.align-items-center(data-aos="fade-down-left")
-            .col-md-2.mb-4.mb-md-0.col-sm-5.col-5
+            .col-lg-2.col-md-3.mb-4.mb-md-0.col-sm-5.col-5
               figure
                 img(src='@/assets/curso/tema1/paso2.svg')
-            .col-md-8
+            .col-lg-9.col-md-8
               p.text-bold Recopilar la información
               p Por un lado, los datos obtenidos para el elemento que será estudiado, por otro, la información que funcionará como comparativa. Deben obedecer a un mismo contexto, esto significa que las empresas a comparar deben pertenecer al mismo sector, o, en términos de tiempo, a periodos equivalentes.
               
 
           .row.justify-content-around.align-items-center(data-aos="fade-down-right")
-            .col-md-8.mb-4.mb-md-0
+            .col-lg-9.col-md-8.mb-4.mb-md-0
               p.text-bold Estudiar o medir las diferencias
               p Una vez se cuenta con los datos de la empresa y su comparativa, se deben realizar los cálculos de las cifras comparables, es decir, las que comprendan las mismas características objeto de análisis, por ejemplo: volumen de ventas de la empresa 1 con volumen de ventas de la empresa 2. 
               p En el caso de los 
                 span.text-bold datos cualitativos
                 span , es recomendable diseñar indicadores o estimar las variaciones en función de los resultados finales obtenidos. 
           
-            .col-md-2.col-sm-5.col-5
+            .col-lg-2.col-md-3.col-sm-5.col-5
               figure
                 img(src='@/assets/curso/tema1/paso3.svg')
 
           .row.justify-content-center.align-items-center
-            .col-md-2.mb-4.mb-md-0.col-sm-5.col-5.me-md-5(data-aos="fade-down-left")
+            .col-lg-2.col-md-3.mb-4.mb-md-0.col-sm-5.col-5.me-md-5(data-aos="fade-down-left")
               figure
                 img(src='@/assets/curso/tema1/paso4.svg')
-            .col-md-8.mb-4.mb-md-0(data-aos="fade-down-left")
+            .col-lg-9.col-md-8.mb-4.mb-md-0(data-aos="fade-down-left")
               p.text-bold Identificar tendencias
               p En el análisis de la información, debe determinarse si existen tendencias que permitan establecer 
                 span.text-bold patrones 
@@ -468,13 +468,13 @@
               p Por ejemplo: que la mayor inversión en publicidad redunda en nuevos clientes, o que la disminución en gastos de transporte tiene un impacto sobre el rendimiento de los canales de distribución.
 
           .row.justify-content-around.align-items-center
-            .col-md-8.mb-4.mb-md-0(data-aos="fade-down-right")
+            .col-lg-9.col-md-8.mb-4.mb-md-0(data-aos="fade-down-right")
               p.text-bold Presentar conclusiones
               p La evaluación de las diferencias debe conllevar a la elaboración de una serie de 
                 span.text-bold conclusiones respaldadas por el estudio
                 span . Identificar el lugar dentro del mercado, estrategias a mejorar u objetivos a alcanzar en función de la empresa a la que se compara son algunos de los resultados esperados.
           
-            .col-md-2.col-sm-5.col-5(data-aos="fade-down-left")
+            .col-lg-2.col-md-3.col-sm-5.col-5(data-aos="fade-down-left")
               figure
                 img(src='@/assets/curso/tema1/paso5.svg')
     separador
@@ -504,7 +504,7 @@
           .col-xxl-5.col-xl-5.col-lg-6.col-md-8.col-sm-10.col-7
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0(data-aos="fade-down-left")
-        h4.mb-0.ms-0.margentitulo2 De flujo
+        h3.mb-0.ms-0.margentitulo2 De flujo
     p.mb-5(data-aos="fade-down-right") Estiman el nivel de cumplimiento de aquellas actividades que se ejecutan de forma constante durante un periodo determinado. En este sentido, cada periodo ofrece una meta y, por lo tanto, una medición independiente. La fórmula para calcular este indicador es la siguiente:
     .row.justify-content-center
       .col-lg-6.col-md-12(data-aos="fade-down-left")
@@ -564,7 +564,7 @@
           .col-xxl-5.col-xl-5.col-lg-6.col-md-8.col-sm-10.col-7
             img(src="@/assets/curso/tema1/fondo2.jpg")
       .col-xxl-6.col-xl-6.col-lg-6.col-md-7.col-sm-10.col-10.ps-0
-        h4.mb-0.ms-0.margentitulo2 Acumulados
+        h3.mb-0.ms-0.margentitulo2 Acumulados
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="fade-down-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/imagen13.jpg')})`}"
@@ -646,7 +646,7 @@
                 td.bordederecha.text-bold 106 
                 td.bordederecha.text-bold 200
                 td.bordederecha.text-bold 53%
-    p.my-5(data-aos="fade") En esta situación, se presenta una evaluación para cada cuatrimestre, incluyendo los valores de los meses anteriores, de la misma forma que al final se presenta un indicador que evalúa la gestión anual. Más allá de este efecto de acumulación, la forma de calcular el indicador no difiere de los de acumulación, al igual que la interpretación que de esto se deriva.
+    p(data-aos="fade") En esta situación, se presenta una evaluación para cada cuatrimestre, incluyendo los valores de los meses anteriores, de la misma forma que al final se presenta un indicador que evalúa la gestión anual. Más allá de este efecto de acumulación, la forma de calcular el indicador no difiere de los de acumulación, al igual que la interpretación que de esto se deriva.
 </template>
 
 <script>

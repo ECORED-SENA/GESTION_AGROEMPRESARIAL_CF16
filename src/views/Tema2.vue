@@ -64,7 +64,7 @@
       span correspondientes por parte del equipo desarrollador y quien cuenta con la 
       span.text-bold.resaltado propiedad intelectual 
       span para explotarlo. La licencia presenta la información necesaria para comprender las restricciones asociadas al programa en cuestión, por lo que, a partir de ella, es posible identificar bajo qué modelo opera su utilización. Las siguientes son las modalidades más utilizadas en esta industria:
-    AcordionA(data-aos="fade-down-left").mb-5(tipo="a" clase-tarjeta="tarjeta fondo-12")
+    AcordionA(data-aos="fade-down-left").mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.ps-5(titulo="<i>Software</i> libre")
         .col-lg-5.col-md-12.mb-4.mb-md-0.ps-4
           p Los programas que cuentan con esta licencia son de libre acceso, tanto para los usuarios como para los desarrolladores. Son <i>softwares</i> que pueden ser modificados o adaptados a gusto de cada persona, puesto que su 

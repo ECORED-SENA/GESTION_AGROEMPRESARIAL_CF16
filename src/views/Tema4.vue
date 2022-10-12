@@ -127,7 +127,7 @@
     p.mb-5(data-aos="fade-down-left") Al igual que con cualquier otro programa, los planes de mejora se benefician del monitoreo permanente; así, se pueden realizar las adecuaciones en el menor tiempo posible, alcanzando mejores resultados al final del trabajo.
     .cajon.color-acento-contenido.p-4.mt-5.fondo-8(data-aos="fade-down-right")
       p.mb-0 Una vez se acaba la implementación inicial del plan de mejora, es conveniente evaluar si las estrategias más efectivas pueden ser implementadas de forma permanente, o si, por el contrario, su naturaleza ocasional es la que les permite obtener tales resultados.
-      p-mb-5 Para determinar si una medida es apropiada o no, se recomienda hacer uso de indicadores de seguimiento o cumplimiento que permitan llevar a juicios más objetivos; de esta forma, se minimiza la posibilidad de crear un sesgo que lleve a la toma de decisiones equivocadas.
+    p.my-5 Para determinar si una medida es apropiada o no, se recomienda hacer uso de indicadores de seguimiento o cumplimiento que permitan llevar a juicios más objetivos; de esta forma, se minimiza la posibilidad de crear un sesgo que lleve a la toma de decisiones equivocadas.
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 4.3 Acciones correctivas y de mejora
@@ -152,7 +152,7 @@
           p(numero="4" titulo="Evaluación de las acciones") En el análisis de causas, se presentan los indicadores actuales del proceso a mejorar; estos deben compararse con los nuevos indicadores una vez aplicadas las acciones de mejora.
 
       .col-lg-6.col-md-12(data-aos="fade")
-        img(src="@/assets/curso/tema2/imagen2.jpg")
+        img(src="@/assets/curso/tema4/imagen4.jpg")
 </template>
 
 <script>
