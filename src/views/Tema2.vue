@@ -143,19 +143,27 @@
               span.text-bold.resaltado derechos de las personas 
               span que han otorgado información de tipo personal.
     .row.justify-content-center.my-5
-      .col-lg-6.col-md-12.mb-4(data-aos="fade-down-left")
+      .col-lg-6.col-md-12(data-aos="fade-down-left")
         p En este sentido, es importante tener presente que, en las interacciones comerciales, es natural recolectar información de las personas interesadas; por ejemplo: para el envío de un producto vendido a domicilio, se debe contar con la dirección del cliente, así como con sus datos de contacto.
         p Desde otro ámbito, si la producción de mis bienes dispuestos a la venta requiere de una serie de procesos que maximizan la eficiencia, el hecho de que empresas de la competencia conozcan esta información puede llevar a que la repliquen y se pierda la ventaja competitiva que esta condición otorgaba. Así, la empresa que compila la información, bien sea propia o de terceros, termina siendo solidariamente responsable, en caso de que, por acción u omisión, estos datos terminen publicándose.
       .col-lg-6.col-md-12(data-aos="fade-down-right")
         img(src="@/assets/curso/tema2/imagen9.jpg")
-    p.mb-5(data-aos="fade-down-left") A modo de recomendación, se presenta una serie de buenas prácticas que pueden ser aplicadas por parte de las empresas y que no necesariamente implican invertir cifras desproporcionadas para garantizar el resguardo de la información:
-    figure(data-aos="fade-down-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/kwT4_LJqbyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.my-5(data-aos="fade-down-right") Una  vez  vistas las recomendaciones, tengamos en cuenta también, que en la actualidad los sistemas operativos ofrecen aplicativos integrados que aportan a la seguridad informática, contar con mecanismos adicionales, como antivirus, puede otorgar más tranquilidad para el manejo de datos, a continuación observe con atención el vídeo que se muestra enseguida. Procure llevar registro de lo más destacado en su libreta personal de apuntes. 
-    figure(data-aos="fade")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/jqL1RwFft-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+ 
+    .row.justify-content-center.align-items-center   
+      .col-lg-10
+        .tarjeta.color-acento-contenido.p-3.mb-5(data-aos="fade-left")
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/tema2/img1.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4 Recomendaciones para la protección de la información 
+                  p.mb-0 A modo de recomendación, se presenta una serie de buenas prácticas que pueden ser aplicadas por parte de las empresas y que no necesariamente implican invertir cifras desproporcionadas para garantizar el resguardo de la información.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/infografia.pdf')" target="_blank")
+                    span.ts Descargar
+                    i.ts.fas.fa-file-download  
 </template>
 
 <script>
