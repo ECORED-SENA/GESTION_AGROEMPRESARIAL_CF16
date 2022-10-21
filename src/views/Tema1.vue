@@ -31,7 +31,7 @@
           .tarjeta.fondo-2
             .p-4
               h4 Cualitativa
-              p.mb-0 Es descriptiva y aporta detalles asociados a las catracterísticas del hecho investigado.
+              p.mb-0 Es descriptiva y aporta detalles asociados a las características del hecho investigado.
               p Se hace necesario codificar la información para su análisis, usando variables o códigos cualitativos u omisiones, según sea el caso.
       .col-xxl-5.col-xl-5.col-lg-5.col-md-12(data-aos="fade-down-left")
         img(src="@/assets/curso/tema1/imagen2.jpg")
@@ -85,7 +85,7 @@
           .tarjeta.fondo-3.anchotarjetaavatar
             .p-4
               p.text-bold.text-center Frecuencias relativas
-              p.text-center Proporción en función del total de respuestas optenidas.
+              p.text-center Proporción en función del total de respuestas obtenidas.
               p.text-center Porcentaje.
     .row.justify-content-center.mb-4
       .col-xxl-7.col-xl-7.col-lg-7.col-md-12.mb-4(data-aos="fade-down-left")
@@ -164,8 +164,8 @@
     .row.justify-content-center.mt-4
       .col-xxl-10.col-xl-10.col-lg-10.col-md-12(data-aos="fade-down-left")
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 2
-          span Tabulación de datos cuanlitativos
+          h5 Tabla 2.
+          span Tabulación de datos cualitativos
         .tabla-a.color-primario.mb-5(data-aos="fade-down-right")
           table
             thead.fondo-5
@@ -261,7 +261,7 @@
             ul.lista-ul
               li 
                 i.fas.fa-angle-right
-                | Comparar magnitudes o cantidades, y para 
+                | Comparar magnitudes o cantidades.
               li 
                 i.fas.fa-angle-right
                 | Evaluar las variaciones en el tiempo de algún indicador o resultado.
@@ -273,7 +273,7 @@
       .col-lg-6.col-md-12(data-aos="fade-down-right")
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
-          span Tabulación de datos cualitativos
+          span Tabulación de los resultados
     .row.ampliar.px-5.fondo-10.justify-content-center
       .col-lg-8.col-12(data-aos="fade-down-right")
         .tabla-a.color-primario.mb-5
@@ -375,7 +375,7 @@
           span . Es conocido como 
           span.text-bold.resaltado Diagrama de torta
           span , debido a su semejanza con un pastel porcionado para sus comensales. 
-        p Este tipo de gráfico se recomienda cuando se evalúan pocos elementos o algunos de ellos destacan sobre los demás.Además, tiene mayor usabilidad si las variables asociadas corresponden a un número no tan grande, puesto que así son más apreciables las diferencias observadas.
+        p Este tipo de gráfico se recomienda cuando se evalúan pocos elementos o algunos de ellos destacan sobre los demás. Además, tiene mayor usabilidad si las variables asociadas corresponden a un número no tan grande, puesto que así son más apreciables las diferencias observadas.
         p A continuación, se presenta una figura que ejemplifica un gráfico de sectores utilizado en una compañía para conocer la composición de los gastos en los que incurrió para mantener su operación en marcha:
       .col-lg-6.col-md-12(data-aos="fade-down-right")
         .titulo-sexto.color-acento-contenido
@@ -537,8 +537,8 @@
                 td.bordeabajo 120%
               tr.fondo-7
                 td.bordederecha.bordeabajo 20x1
-                td.bordederecha.bordeabajo 120%
-                td.bordederecha.bordeabajo 100%
+                td.bordederecha.bordeabajo 120
+                td.bordederecha.bordeabajo 100
                 td.bordeabajo 83%
               tr.fondo-11
                 td.bordederecha.bordeabajo 20x2
@@ -599,7 +599,7 @@
                 td.bordederecha Enero
                 td.bordederecha 5
                 <td class="bordederecha" rowspan="4">31</td>
-                <td class="bordederecha" rowspan="4">5</td>
+                <td class="bordederecha" rowspan="4">65</td>
                 <td class="bordederecha" rowspan="4">48%</td>
               tr.fondo-7.bordeabajo.bordeizq
                 td.bordederecha Febrero

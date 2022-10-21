@@ -50,13 +50,13 @@
           
           p(numero="2" titulo="Largo") Cuenta con 10 o más páginas de contenido, lo que le otorga el espacio necesario al autor para extenderse cuanto crea necesario en el desarrollo de sus observaciones. Es el informe más apropiado cuando se abordan temáticas complejas o enrevesadas, puesto que brinda la oportunidad de extenderse o justificar cada decisión de forma más detallada. Por otra parte, los informes pueden clasificarse de acuerdo con la naturaleza de su contenido, así, es posible clasificarlo en las siguientes categorías:
           
-          p(numero="3" titulo="Divulgativo") Su propósito es llegar a la mayor cantidad de gente, sin hacer ningún tipo de clasificación o segmentación previa. Debido a esto, resulta conveniente que haga uso de un lenguaje accesible a mayorías, de tal forma que su lectura no resulte demasiado compleja para los usuarios de esta información.
+          p(numero="2.1" titulo="Divulgativo") Su propósito es llegar a la mayor cantidad de gente, sin hacer ningún tipo de clasificación o segmentación previa. Debido a esto, resulta conveniente que haga uso de un lenguaje accesible a mayorías, de tal forma que su lectura no resulte demasiado compleja para los usuarios de esta información.
           
-          p(numero="4" titulo="Científico") Es un informe técnico y, por lo tanto, hace uso de términos mucho más complejos y propios de profesiones asociadas con la investigación. Suele usarse en ámbitos académicos y en etapas de investigación y desarrollo.
+          p(numero="2.2" titulo="Científico") Es un informe técnico y, por lo tanto, hace uso de términos mucho más complejos y propios de profesiones asociadas con la investigación. Suele usarse en ámbitos académicos y en etapas de investigación y desarrollo.
 
-          p(numero="5" titulo="Técnico") Su principal característica resulta ser el enfoque específico a una temática concreta. Es uno de los más útiles en el campo empresarial, puesto que facilita la segmentación en función de las áreas organizacionales involucradas.
+          p(numero="2.3" titulo="Técnico") Su principal característica resulta ser el enfoque específico a una temática concreta. Es uno de los más útiles en el campo empresarial, puesto que facilita la segmentación en función de las áreas organizacionales involucradas.
 
-          p(numero="6" titulo="Mixto") Resulta un punto intermedio entre el informe divulgativo y el técnico, lo que significa que puede requerir lenguaje técnico en menor medida y apuntar a un amplio grupo de interesados, abordando problemáticas específicas, pero sin profundizar en la disciplina de donde proviene.
+          p(numero="2.4" titulo="Mixto") Resulta un punto intermedio entre el informe divulgativo y el técnico, lo que significa que puede requerir lenguaje técnico en menor medida y apuntar a un amplio grupo de interesados, abordando problemáticas específicas, pero sin profundizar en la disciplina de donde proviene.
 
       .col-lg-6.col-md-12(data-aos="fade-down-left")
         img(src="@/assets/curso/tema3/imagen3.jpg")    

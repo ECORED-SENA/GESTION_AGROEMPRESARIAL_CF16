@@ -11,7 +11,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/imagen1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Con la constante evolución del trabajo administrativo en las organizaciones, resulta inevitable que se innove en la generación de herramientas que faciliten el trabajo y garanticen mantener el control de las operaciones, documentación y registro de la información. La tecnología, como aliado en este constante desarrollo de alternativas, ha permitido que la complejidad organizacional sea apoyada con software diseñado para cubrir labores hasta hace poco impensables para los operarios.
+        p.mb-0 Con la constante evolución del trabajo administrativo en las organizaciones, resulta inevitable que se innove en la generación de herramientas que faciliten el trabajo y garanticen mantener el control de las operaciones, documentación y registro de la información. La tecnología, como aliado en este constante desarrollo de alternativas, ha permitido que la complejidad organizacional sea apoyada con <em>software</em> diseñado para cubrir labores hasta hace poco impensables para los operarios.
     p.my-5(data-aos="fade-down-left") La ofimática es aquel campo de la tecnología que se destina, especialmente, a otorgar sistemas y métodos enfocados a la ejecución de tareas administrativas propias de la gestión organizacional. El término es un acrónimo que combina las palabras oficina e informática, lo que ya de por sí otorga un claro acercamiento a su propósito como elemento diferenciador en la administración en la actualidad. Para conocer más sobre el tema, le invitamos a conocer más en la siguiente video clase denominada “Ofimática”.
     figure(data-aos="fade-down-right")
       .video
@@ -25,7 +25,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Una de las herramientas más usadas en la actualidad es el paquete ofimático, por lo que le invitamos a revisar el video del Ecosistema de Recursos Educativos Digitales del SENA denominado ¨Herramientas ofimáticas ¨, ubicado en el siguiente enlace: 
+                  p Una de las herramientas más usadas en la actualidad es el paquete ofimático, por lo que le invitamos a revisar el video del Ecosistema de Recursos Educativos Digitales del SENA denominado "Herramientas ofimáticas", ubicado en el siguiente enlace: 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/embed/Hs7UG7RO3_M" target="_blank")
                     span.text-dark Ver video
@@ -33,7 +33,7 @@
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 2.1 Usos
-    p.my-5(data-aos="fade-down-left") Como se ha mencionado previamente, la ofimática involucra cualquier tipo de herramienta informática que facilite el trabajo de oficina, así que cualquier software que facilite esta gestión administrativa puede encajar en esta categoría. Con el objetivo de brindar más elementos para comprender el concepto, se muestran a continuación una serie de funciones que se desprenden de la ofimática:
+    p.my-5(data-aos="fade-down-left") Como se ha mencionado previamente, la ofimática involucra cualquier tipo de herramienta informática que facilite el trabajo de oficina, así que cualquier <em>software</em> que facilite esta gestión administrativa puede encajar en esta categoría. Con el objetivo de brindar más elementos para comprender el concepto, se muestran a continuación una serie de funciones que se desprenden de la ofimática:
     .row.justify-content-center
       .col-lg-6.col-md-12.mb-4(data-aos="fade-down-right")
         LineaTiempoD.color-secundario
@@ -51,7 +51,7 @@
         img(src="@/assets/curso/tema2/imagen2.jpg")
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
-      h2 2.2 herramientas
+      h2 2.2 Herramientas
     p.mb-5(data-aos="fade-down-left") De forma similar a los usos, las herramientas son aquellos programas, propiamente dichos, que se encargan de ejecutar las tareas previamente mencionadas. Las actividades que pueden llevarse a cabo son tan variadas como las exigencias del personal organizacional, puesto que continuamente se ofrecen nuevas alternativas que mejoran aún más la experiencia. Paso seguido, se enseñan algunas de las aplicaciones más utilizadas para este tipo de labores:
     figure(data-aos="fade-down-left")
       .video

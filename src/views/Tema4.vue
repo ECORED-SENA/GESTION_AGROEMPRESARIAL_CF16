@@ -12,13 +12,13 @@
         ul.lista-ul
           li.mb-0 
             i.fas.fa-angle-right
-            | Un diagnóstico,
+            | Un diagnóstico.
           li.mb-0 
             i.fas.fa-angle-right
-            | Una planificación, 
+            | Una planificación. 
           li.mb-0 
             i.fas.fa-angle-right
-            | Una ejecución y 
+            | Una ejecución.
           li.mb-0 
             i.fas.fa-angle-right
             | Una evaluación.
@@ -62,10 +62,10 @@
             ul.lista-ul
               li.mb-0 
                 i.fas.fa-angle-right
-                | La prevención de las no conformidades potenciales,
+                | La prevención de las no conformidades potenciales.
               li.mb-0 
                 i.fas.fa-angle-right
-                | La corrección de las presentes y 
+                | La corrección de las presentes.
               li.mb-0 
                 i.fas.fa-angle-right
                 | El aprovechamiento de los planes de mejora para maximizar el valor de la empresa.
@@ -147,7 +147,7 @@
           
           p(numero="2" titulo="Análisis de causa") Implica describir detalladamente la problemática o ineficiencia que motiva el diseño de acciones de mejora. Entre más se profundice en ellas, mayores precisiones tendrán las posibles acciones de mejora.
           
-          p(numero="3" titulo="Planificación de actividades") como cualquier otro plan o programa, resulta necesario diseñar un cronograma que describa las actividades y las fechas en las que se llevarán a cabo, así como las dificultades que surjan durante el proceso.
+          p(numero="3" titulo="Planificación de actividades") Como cualquier otro plan o programa, resulta necesario diseñar un cronograma que describa las actividades y las fechas en las que se llevarán a cabo, así como las dificultades que surjan durante el proceso.
           
           p(numero="4" titulo="Evaluación de las acciones") En el análisis de causas, se presentan los indicadores actuales del proceso a mejorar; estos deben compararse con los nuevos indicadores una vez aplicadas las acciones de mejora.
 
